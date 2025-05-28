@@ -1,12 +1,12 @@
-# React + Vite
+## Flipping Card Component
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project includes a robust and responsive flipping card component built with  React, and Tailwind CSS.
 
-Currently, two official plugins are available:
+**Features:**
+- Rounded card with an image on the front.
+- Flips on hover to reveal detailed text information on the back.
+- (Bonus) Gradient border for enhanced visual appeal.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+**Usage:**
+You can view and interact with the flipping card on the following page:
+https://akash003x.github.io/Flipping-card/
