@@ -14,7 +14,7 @@ function App() {
             {/* Front Side */}
             <div className="absolute w-full h-full bg-gradient-to-br from-gray-900 via-gray-800 to-gray-700 rounded-3xl overflow-hidden backface-hidden duration-500 shadow-xl">
               <img
-                src="src/images/p2.jpg"
+                src="public/images/p2.jpg"
                 className="w-full h-full object-cover opacity-80"
                 alt="Batman"
               />
